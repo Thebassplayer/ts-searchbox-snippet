@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-qsmnuw)
 
-````
+```js
 
 // A helper type with the results we expect
 // from calling the back end
@@ -59,6 +59,3 @@ query: string;
 tags?: string[];
 assemble: AssembleFn;
 };
-```JS
-
-````
